@@ -1,3 +1,9 @@
+opx-logging (2.1.1+opx2) unstable; urgency=medium
+
+  * Update: Copyright information
+
+ -- Dell EMC <ops-dev@lists.openswitch.net>  Mon, 10 Dec 2018 14:16:24 -0700
+
 opx-logging (2.1.1+opx1) unstable; urgency=medium
 
   * Update: Add new log levels and log output
